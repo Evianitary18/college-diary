@@ -1,0 +1,9 @@
+D:\Kumpulan Tugas PBO\Praktikum PBO\Praktikum PBO\obj\Debug\net6.0-windows\Praktikum_PBO.Form1.resources
+D:\Kumpulan Tugas PBO\Praktikum PBO\Praktikum PBO\obj\Debug\net6.0-windows\Praktikum_PBO.Form2.resources
+D:\Kumpulan Tugas PBO\Praktikum PBO\Praktikum PBO\obj\Debug\net6.0-windows\Praktikum_PBO.Properties.Resources.resources
+D:\Kumpulan Tugas PBO\Praktikum PBO\Praktikum PBO\obj\Debug\net6.0-windows\Praktikum_PBO.Service.resources
+D:\Kumpulan Tugas PBO\Praktikum PBO\Praktikum PBO\obj\Debug\net6.0-windows\Praktikum PBO.csproj.GenerateResource.cache
+D:\Kumpulan Tugas PBO\Praktikum PBO\Praktikum PBO\obj\Debug\net6.0-windows\Praktikum PBO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kumpulan Tugas PBO\Praktikum PBO\Praktikum PBO\obj\Debug\net6.0-windows\Praktikum PBO.AssemblyInfoInputs.cache
+D:\Kumpulan Tugas PBO\Praktikum PBO\Praktikum PBO\obj\Debug\net6.0-windows\Praktikum PBO.AssemblyInfo.cs
+D:\Kumpulan Tugas PBO\Praktikum PBO\Praktikum PBO\obj\Debug\net6.0-windows\Praktikum PBO.csproj.CoreCompileInputs.cache

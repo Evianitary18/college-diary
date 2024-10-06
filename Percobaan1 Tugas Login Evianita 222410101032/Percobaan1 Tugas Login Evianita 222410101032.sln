@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Percobaan1 Tugas Login Evianita 222410101032", "Percobaan1 Tugas Login Evianita 222410101032\Percobaan1 Tugas Login Evianita 222410101032.csproj", "{4529DEBA-58A2-4DF9-8E00-11822E3FFBA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4529DEBA-58A2-4DF9-8E00-11822E3FFBA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4529DEBA-58A2-4DF9-8E00-11822E3FFBA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4529DEBA-58A2-4DF9-8E00-11822E3FFBA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4529DEBA-58A2-4DF9-8E00-11822E3FFBA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20F13C86-96D4-4842-AD46-A73B3A9263E5}
+	EndGlobalSection
+EndGlobal
