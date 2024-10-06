@@ -1,0 +1,10 @@
+D:\Kumpulan Tugas PBO\PBO TM 16 Oktober Context\PBO TM 16 Oktober Context\bin\Debug\PBO TM 16 Oktober Context.exe.config
+D:\Kumpulan Tugas PBO\PBO TM 16 Oktober Context\PBO TM 16 Oktober Context\bin\Debug\PBO TM 16 Oktober Context.exe
+D:\Kumpulan Tugas PBO\PBO TM 16 Oktober Context\PBO TM 16 Oktober Context\bin\Debug\PBO TM 16 Oktober Context.pdb
+D:\Kumpulan Tugas PBO\PBO TM 16 Oktober Context\PBO TM 16 Oktober Context\obj\Debug\PBO TM 16 Oktober Context.csproj.AssemblyReference.cache
+D:\Kumpulan Tugas PBO\PBO TM 16 Oktober Context\PBO TM 16 Oktober Context\obj\Debug\PBO_TM_16_Oktober_Context.Form1.resources
+D:\Kumpulan Tugas PBO\PBO TM 16 Oktober Context\PBO TM 16 Oktober Context\obj\Debug\PBO_TM_16_Oktober_Context.Properties.Resources.resources
+D:\Kumpulan Tugas PBO\PBO TM 16 Oktober Context\PBO TM 16 Oktober Context\obj\Debug\PBO TM 16 Oktober Context.csproj.GenerateResource.cache
+D:\Kumpulan Tugas PBO\PBO TM 16 Oktober Context\PBO TM 16 Oktober Context\obj\Debug\PBO TM 16 Oktober Context.csproj.CoreCompileInputs.cache
+D:\Kumpulan Tugas PBO\PBO TM 16 Oktober Context\PBO TM 16 Oktober Context\obj\Debug\PBO TM 16 Oktober Context.exe
+D:\Kumpulan Tugas PBO\PBO TM 16 Oktober Context\PBO TM 16 Oktober Context\obj\Debug\PBO TM 16 Oktober Context.pdb
