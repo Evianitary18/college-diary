@@ -1,0 +1,10 @@
+D:\Kumpulan Tugas PBO\Hello World2\Hello World2\bin\Debug\Hello World2.exe.config
+D:\Kumpulan Tugas PBO\Hello World2\Hello World2\bin\Debug\Hello World2.exe
+D:\Kumpulan Tugas PBO\Hello World2\Hello World2\bin\Debug\Hello World2.pdb
+D:\Kumpulan Tugas PBO\Hello World2\Hello World2\obj\Debug\Hello World2.csproj.AssemblyReference.cache
+D:\Kumpulan Tugas PBO\Hello World2\Hello World2\obj\Debug\Hello_World2.Form1.resources
+D:\Kumpulan Tugas PBO\Hello World2\Hello World2\obj\Debug\Hello_World2.Properties.Resources.resources
+D:\Kumpulan Tugas PBO\Hello World2\Hello World2\obj\Debug\Hello World2.csproj.GenerateResource.cache
+D:\Kumpulan Tugas PBO\Hello World2\Hello World2\obj\Debug\Hello World2.csproj.CoreCompileInputs.cache
+D:\Kumpulan Tugas PBO\Hello World2\Hello World2\obj\Debug\Hello World2.exe
+D:\Kumpulan Tugas PBO\Hello World2\Hello World2\obj\Debug\Hello World2.pdb
