@@ -1,0 +1,18 @@
+D:\Kumpulan Tugas PBO\Tugas PBO 8 Evianita 222410101032\Tugas PBO 8 Evianita 222410101032\bin\Debug\net6.0-windows\Tugas PBO 8 Evianita 222410101032.exe
+D:\Kumpulan Tugas PBO\Tugas PBO 8 Evianita 222410101032\Tugas PBO 8 Evianita 222410101032\bin\Debug\net6.0-windows\Tugas PBO 8 Evianita 222410101032.deps.json
+D:\Kumpulan Tugas PBO\Tugas PBO 8 Evianita 222410101032\Tugas PBO 8 Evianita 222410101032\bin\Debug\net6.0-windows\Tugas PBO 8 Evianita 222410101032.runtimeconfig.json
+D:\Kumpulan Tugas PBO\Tugas PBO 8 Evianita 222410101032\Tugas PBO 8 Evianita 222410101032\bin\Debug\net6.0-windows\Tugas PBO 8 Evianita 222410101032.dll
+D:\Kumpulan Tugas PBO\Tugas PBO 8 Evianita 222410101032\Tugas PBO 8 Evianita 222410101032\bin\Debug\net6.0-windows\Tugas PBO 8 Evianita 222410101032.pdb
+D:\Kumpulan Tugas PBO\Tugas PBO 8 Evianita 222410101032\Tugas PBO 8 Evianita 222410101032\obj\Debug\net6.0-windows\Tugas_PBO_8_Evianita_222410101032.Form1.resources
+D:\Kumpulan Tugas PBO\Tugas PBO 8 Evianita 222410101032\Tugas PBO 8 Evianita 222410101032\obj\Debug\net6.0-windows\Tugas_PBO_8_Evianita_222410101032.Form2.resources
+D:\Kumpulan Tugas PBO\Tugas PBO 8 Evianita 222410101032\Tugas PBO 8 Evianita 222410101032\obj\Debug\net6.0-windows\Tugas PBO 8 Evianita 222410101032.csproj.GenerateResource.cache
+D:\Kumpulan Tugas PBO\Tugas PBO 8 Evianita 222410101032\Tugas PBO 8 Evianita 222410101032\obj\Debug\net6.0-windows\Tugas PBO 8 Evianita 222410101032.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kumpulan Tugas PBO\Tugas PBO 8 Evianita 222410101032\Tugas PBO 8 Evianita 222410101032\obj\Debug\net6.0-windows\Tugas PBO 8 Evianita 222410101032.AssemblyInfoInputs.cache
+D:\Kumpulan Tugas PBO\Tugas PBO 8 Evianita 222410101032\Tugas PBO 8 Evianita 222410101032\obj\Debug\net6.0-windows\Tugas PBO 8 Evianita 222410101032.AssemblyInfo.cs
+D:\Kumpulan Tugas PBO\Tugas PBO 8 Evianita 222410101032\Tugas PBO 8 Evianita 222410101032\obj\Debug\net6.0-windows\Tugas PBO 8 Evianita 222410101032.csproj.CoreCompileInputs.cache
+D:\Kumpulan Tugas PBO\Tugas PBO 8 Evianita 222410101032\Tugas PBO 8 Evianita 222410101032\obj\Debug\net6.0-windows\Tugas PBO 8 Evianita 222410101032.dll
+D:\Kumpulan Tugas PBO\Tugas PBO 8 Evianita 222410101032\Tugas PBO 8 Evianita 222410101032\obj\Debug\net6.0-windows\refint\Tugas PBO 8 Evianita 222410101032.dll
+D:\Kumpulan Tugas PBO\Tugas PBO 8 Evianita 222410101032\Tugas PBO 8 Evianita 222410101032\obj\Debug\net6.0-windows\Tugas PBO 8 Evianita 222410101032.pdb
+D:\Kumpulan Tugas PBO\Tugas PBO 8 Evianita 222410101032\Tugas PBO 8 Evianita 222410101032\obj\Debug\net6.0-windows\Tugas PBO 8 Evianita 222410101032.genruntimeconfig.cache
+D:\Kumpulan Tugas PBO\Tugas PBO 8 Evianita 222410101032\Tugas PBO 8 Evianita 222410101032\obj\Debug\net6.0-windows\ref\Tugas PBO 8 Evianita 222410101032.dll
+D:\Kumpulan Tugas PBO\Tugas PBO 8 Evianita 222410101032\Tugas PBO 8 Evianita 222410101032\obj\Debug\net6.0-windows\Tugas_PBO_8_Evianita_222410101032.Form3.resources
