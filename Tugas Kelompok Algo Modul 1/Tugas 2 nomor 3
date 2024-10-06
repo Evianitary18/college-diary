@@ -1,0 +1,32 @@
+import timeit
+
+start = timeit.default_timer()
+sum = 0
+n = 100000
+for i in range(n+1):
+    sum += i
+
+import time
+st = time.time()
+
+#SOAL NO 3
+
+kalimat = input("Masukkan kalimat: ")
+kata = input("Masukkan kata yang ingin dipilih: ")
+
+panjangkata =(len(kata))
+
+print(kalimat)
+def boyermoore(idx,panjangkata,k):
+    if kalimat[idx:panjangkata] == kata:
+        print((" "*k)+kata)
+    else:
+        print((" "*k)+kata)
+        boyermoore(idx+1, panjangkata+1, k+1)
+
+boyermoore(0, panjangkata, 0)
+
+et = time.time()
+elapsed_time = et - st
+print('excution time:', elapsed_time, "second")
+

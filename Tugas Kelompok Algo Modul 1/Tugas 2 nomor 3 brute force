@@ -1,0 +1,27 @@
+import timeit
+start = timeit.default_timer()
+sum = 0
+n = 100000
+for i in range (n+1):
+    sum += 1
+stop = timeit.default_timer()
+lama_eksekusi = stop - start
+
+def string_matching(text, pattern):
+    n = len(text)
+    m = len(pattern)
+    
+    for i in range(n-m+1):
+        j = 0
+        while(j < m and pattern[j] == text[i+j]):
+            j += 1
+        if j == m:
+            return i
+    return -1
+
+text = "102302165651453888610973555"
+pattern = "165"
+print(string_matching(text, pattern))
+
+print(f'lama eksekusi :', lama_eksekusi,'second')
+
