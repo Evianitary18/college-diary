@@ -1,0 +1,14 @@
+D:\Kumpulan Tugas PBO\Tugas PBO Modul Praktikum_Evianita Fiks\Tugas PBO Modul Praktikum_Evianita Fiks\bin\Debug\net6.0\Tugas PBO Modul Praktikum_Evianita Fiks.exe
+D:\Kumpulan Tugas PBO\Tugas PBO Modul Praktikum_Evianita Fiks\Tugas PBO Modul Praktikum_Evianita Fiks\bin\Debug\net6.0\Tugas PBO Modul Praktikum_Evianita Fiks.deps.json
+D:\Kumpulan Tugas PBO\Tugas PBO Modul Praktikum_Evianita Fiks\Tugas PBO Modul Praktikum_Evianita Fiks\bin\Debug\net6.0\Tugas PBO Modul Praktikum_Evianita Fiks.runtimeconfig.json
+D:\Kumpulan Tugas PBO\Tugas PBO Modul Praktikum_Evianita Fiks\Tugas PBO Modul Praktikum_Evianita Fiks\bin\Debug\net6.0\Tugas PBO Modul Praktikum_Evianita Fiks.dll
+D:\Kumpulan Tugas PBO\Tugas PBO Modul Praktikum_Evianita Fiks\Tugas PBO Modul Praktikum_Evianita Fiks\bin\Debug\net6.0\Tugas PBO Modul Praktikum_Evianita Fiks.pdb
+D:\Kumpulan Tugas PBO\Tugas PBO Modul Praktikum_Evianita Fiks\Tugas PBO Modul Praktikum_Evianita Fiks\obj\Debug\net6.0\Tugas PBO Modul Praktikum_Evianita Fiks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kumpulan Tugas PBO\Tugas PBO Modul Praktikum_Evianita Fiks\Tugas PBO Modul Praktikum_Evianita Fiks\obj\Debug\net6.0\Tugas PBO Modul Praktikum_Evianita Fiks.AssemblyInfoInputs.cache
+D:\Kumpulan Tugas PBO\Tugas PBO Modul Praktikum_Evianita Fiks\Tugas PBO Modul Praktikum_Evianita Fiks\obj\Debug\net6.0\Tugas PBO Modul Praktikum_Evianita Fiks.AssemblyInfo.cs
+D:\Kumpulan Tugas PBO\Tugas PBO Modul Praktikum_Evianita Fiks\Tugas PBO Modul Praktikum_Evianita Fiks\obj\Debug\net6.0\Tugas PBO Modul Praktikum_Evianita Fiks.csproj.CoreCompileInputs.cache
+D:\Kumpulan Tugas PBO\Tugas PBO Modul Praktikum_Evianita Fiks\Tugas PBO Modul Praktikum_Evianita Fiks\obj\Debug\net6.0\Tugas PBO Modul Praktikum_Evianita Fiks.dll
+D:\Kumpulan Tugas PBO\Tugas PBO Modul Praktikum_Evianita Fiks\Tugas PBO Modul Praktikum_Evianita Fiks\obj\Debug\net6.0\refint\Tugas PBO Modul Praktikum_Evianita Fiks.dll
+D:\Kumpulan Tugas PBO\Tugas PBO Modul Praktikum_Evianita Fiks\Tugas PBO Modul Praktikum_Evianita Fiks\obj\Debug\net6.0\Tugas PBO Modul Praktikum_Evianita Fiks.pdb
+D:\Kumpulan Tugas PBO\Tugas PBO Modul Praktikum_Evianita Fiks\Tugas PBO Modul Praktikum_Evianita Fiks\obj\Debug\net6.0\Tugas PBO Modul Praktikum_Evianita Fiks.genruntimeconfig.cache
+D:\Kumpulan Tugas PBO\Tugas PBO Modul Praktikum_Evianita Fiks\Tugas PBO Modul Praktikum_Evianita Fiks\obj\Debug\net6.0\ref\Tugas PBO Modul Praktikum_Evianita Fiks.dll

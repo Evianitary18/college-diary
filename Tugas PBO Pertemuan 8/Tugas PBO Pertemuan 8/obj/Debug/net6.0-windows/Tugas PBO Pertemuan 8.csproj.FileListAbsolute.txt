@@ -1,0 +1,16 @@
+D:\Kumpulan Tugas PBO\Tugas PBO Pertemuan 8\Tugas PBO Pertemuan 8\bin\Debug\net6.0-windows\Tugas PBO Pertemuan 8.exe
+D:\Kumpulan Tugas PBO\Tugas PBO Pertemuan 8\Tugas PBO Pertemuan 8\bin\Debug\net6.0-windows\Tugas PBO Pertemuan 8.deps.json
+D:\Kumpulan Tugas PBO\Tugas PBO Pertemuan 8\Tugas PBO Pertemuan 8\bin\Debug\net6.0-windows\Tugas PBO Pertemuan 8.runtimeconfig.json
+D:\Kumpulan Tugas PBO\Tugas PBO Pertemuan 8\Tugas PBO Pertemuan 8\bin\Debug\net6.0-windows\Tugas PBO Pertemuan 8.dll
+D:\Kumpulan Tugas PBO\Tugas PBO Pertemuan 8\Tugas PBO Pertemuan 8\bin\Debug\net6.0-windows\Tugas PBO Pertemuan 8.pdb
+D:\Kumpulan Tugas PBO\Tugas PBO Pertemuan 8\Tugas PBO Pertemuan 8\obj\Debug\net6.0-windows\Tugas_PBO_Pertemuan_8.Form1.resources
+D:\Kumpulan Tugas PBO\Tugas PBO Pertemuan 8\Tugas PBO Pertemuan 8\obj\Debug\net6.0-windows\Tugas PBO Pertemuan 8.csproj.GenerateResource.cache
+D:\Kumpulan Tugas PBO\Tugas PBO Pertemuan 8\Tugas PBO Pertemuan 8\obj\Debug\net6.0-windows\Tugas PBO Pertemuan 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kumpulan Tugas PBO\Tugas PBO Pertemuan 8\Tugas PBO Pertemuan 8\obj\Debug\net6.0-windows\Tugas PBO Pertemuan 8.AssemblyInfoInputs.cache
+D:\Kumpulan Tugas PBO\Tugas PBO Pertemuan 8\Tugas PBO Pertemuan 8\obj\Debug\net6.0-windows\Tugas PBO Pertemuan 8.AssemblyInfo.cs
+D:\Kumpulan Tugas PBO\Tugas PBO Pertemuan 8\Tugas PBO Pertemuan 8\obj\Debug\net6.0-windows\Tugas PBO Pertemuan 8.csproj.CoreCompileInputs.cache
+D:\Kumpulan Tugas PBO\Tugas PBO Pertemuan 8\Tugas PBO Pertemuan 8\obj\Debug\net6.0-windows\Tugas PBO Pertemuan 8.dll
+D:\Kumpulan Tugas PBO\Tugas PBO Pertemuan 8\Tugas PBO Pertemuan 8\obj\Debug\net6.0-windows\refint\Tugas PBO Pertemuan 8.dll
+D:\Kumpulan Tugas PBO\Tugas PBO Pertemuan 8\Tugas PBO Pertemuan 8\obj\Debug\net6.0-windows\Tugas PBO Pertemuan 8.pdb
+D:\Kumpulan Tugas PBO\Tugas PBO Pertemuan 8\Tugas PBO Pertemuan 8\obj\Debug\net6.0-windows\Tugas PBO Pertemuan 8.genruntimeconfig.cache
+D:\Kumpulan Tugas PBO\Tugas PBO Pertemuan 8\Tugas PBO Pertemuan 8\obj\Debug\net6.0-windows\ref\Tugas PBO Pertemuan 8.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TUGAS PRAKTIKUM MODUL PBO_EVIANITA/1.0.0": {
+        "runtime": {
+          "TUGAS PRAKTIKUM MODUL PBO_EVIANITA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TUGAS PRAKTIKUM MODUL PBO_EVIANITA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
